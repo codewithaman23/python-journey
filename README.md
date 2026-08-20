@@ -1,16 +1,16 @@
-# Python Basics 
+# Python Basics 🐍
 
 This repository contains my Python learning journey from the basics.
 
-I created these notebooks while learning Python and practicing different concepts with examples and small programs.
+I am using these notebooks to learn Python concepts, write examples, and practice what I learn.
 
 ## 📚 Topics Covered
 
 1. **Python Introduction**
 
-   * Introduction to Python
+   * Python basics
    * Basic syntax
-   * How Python works
+   * Introduction to Python
 
 2. **Variables**
 
@@ -28,8 +28,8 @@ I created these notebooks while learning Python and practicing different concept
 
 4. **Keywords**
 
-   * Python reserved keywords
-   * Understanding keywords
+   * Python keywords
+   * Reserved words
 
 5. **Operators**
 
@@ -37,19 +37,18 @@ I created these notebooks while learning Python and practicing different concept
    * Comparison operators
    * Logical operators
    * Assignment operators
-   * Other basic operators
 
 6. **Data Structures**
 
-   * Introduction to Python data structures
+   * Introduction to data structures
    * Different ways of storing data
 
 7. **Lists**
 
    * Creating lists
    * Accessing elements
+   * Updating elements
    * List methods
-   * Updating and removing elements
 
 8. **Tuples**
 
@@ -77,27 +76,34 @@ I created these notebooks while learning Python and practicing different concept
     * `if-elif-else`
     * Nested conditions
 
+12. **Looping Statements**
+
+    * `for` loop
+    * Using loops with sequences
+    * Basic loop practice
+
 ## 📁 Notebooks
 
-```text
-01_python_introduction.ipynb
-02_variables.ipynb
-03_datatypes.ipynb
-04_keywords.ipynb
-05_operators.ipynb
-06_Data_structure.ipynb
-07_List.ipynb
-08_tuples.ipynb
-09_sets.ipynb
-10_Dictionary.ipynb
-11_conditionalStatements.ipynb
-```
+* `01_python_introduction.ipynb`
+* `02_variables.ipynb`
+* `03_datatypes.ipynb`
+* `04_keywords.ipynb`
+* `05_operators.ipynb`
+* `06_Data_structure.ipynb`
+* `07_List.ipynb`
+* `08_tuples.ipynb`
+* `09_sets.ipynb`
+* `10_Dictionary.ipynb`
+* `11_conditionalStatements.ipynb`
+* `12_looping_Statements_for_loop.ipynb`
 
 ## 🎯 Goal
 
-My goal with this repository is to build a strong foundation in Python before moving on to more advanced topics like functions, loops, OOP, DSA and eventually Generative AI.
+The main goal of this repository is to build a strong foundation in Python.
 
-I will keep updating this repository as I learn and practice more Python concepts.
+I will keep adding new notebooks as I learn more topics and practice more programs.
+
+After completing the Python basics, I plan to move towards functions, OOP, DSA and eventually Generative AI.
 
 ## 🛠️ Tools Used
 
