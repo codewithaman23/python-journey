@@ -1,3 +1,4 @@
+
 # 🐍 Python Journey
 
 <div align="center">
@@ -6,24 +7,21 @@
 
 <br>
 
-**My hands-on journey of learning Python from the basics to core programming concepts.**
+**My hands-on journey of learning Python through practice and projects.**
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
 ---
 
-## 📖 About This Repository
+## 📖 About
 
-This repository contains my **Python learning journey**, where I practice programming concepts through hands-on examples and problem-solving.
-
-I use **Jupyter Notebooks** to understand concepts, experiment with code, and build a strong foundation in Python.
+This repository contains my **Python learning journey**, where I learn concepts through **Jupyter Notebooks, coding practice, and problem-solving**.
 
 > 💡 **Learn → Practice → Build → Improve**
 
@@ -31,182 +29,57 @@ I use **Jupyter Notebooks** to understand concepts, experiment with code, and bu
 
 ## 📚 Topics Covered
 
-### 1. 🐍 Python Foundations
+* 🐍 **Python Basics**
 
-* **Introduction & Syntax**
+  * Introduction, Variables, Data Types, Keywords & Operators
 
-  * Python basics
-  * `print()`
-  * Comments
-  * Basic syntax
-  * Script execution
+* 🧰 **Data Structures**
 
-* **Variables**
+  * Lists, Tuples, Sets & Dictionaries
 
-  * Variable creation
-  * Naming rules
-  * Assignment
-  * Dynamic typing
+* 🔀 **Control Flow**
 
-* **Data Types**
+  * Conditional Statements, `for` & `while` loops
 
-  * `int`
-  * `float`
-  * `str`
-  * `bool`
-  * `type()`
-  * Type casting
+* ⚙️ **Functions**
 
-* **Keywords**
+  * Parameters, Arguments, Return Values, Scope & Practice
 
-  * Python reserved keywords
-  * Identifiers
-  * Naming rules
+* 🔁 **Advanced Functions**
 
-* **Operators**
+  * Recursion, `*args`, `**kwargs`, Lambda, Map & Filter
 
-  * Arithmetic operators
-  * Comparison operators
-  * Logical operators
-  * Assignment operators
+* 📁 **File Handling**
 
----
-
-### 2. 🧰 Built-in Data Structures
-
-Python provides powerful built-in data structures for storing and managing data.
-
-* **Lists**
-
-  * Creation
-  * Indexing
-  * Slicing
-  * Updating elements
-  * `append()`
-  * `extend()`
-  * `pop()`
-  * `sort()`
-
-* **Tuples**
-
-  * Tuple creation
-  * Indexing
-  * Immutability
-  * Tuple packing
-  * Tuple unpacking
-
-* **Sets**
-
-  * Unique elements
-  * Adding and removing elements
-  * Union
-  * Intersection
-  * Difference
-
-* **Dictionaries**
-
-  * Key-value pairs
-  * Accessing values
-  * Updating dictionaries
-  * `keys()`
-  * `values()`
-  * `items()`
-  * `get()`
-
----
-
-### 3. 🔀 Control Flow
-
-Control flow allows programs to make decisions and repeat operations.
-
-* **Conditional Statements**
-
-  * `if`
-  * `if-else`
-  * `if-elif-else`
-  * Nested conditions
-
-* **Loops**
-
-  * `for` loop
-  * `while` loop
-  * `range()`
-  * Iterating through sequences
-
----
-
-### 4. ⚙️ Functions
-
-Functions help organize code into reusable blocks.
-
-* Defining functions using `def`
-* Parameters
-* Arguments
-* Positional arguments
-* Keyword arguments
-* Default arguments
-* `return` statement
-* Local and global scope
-* Function examples
-* Problem-solving using functions
-
----
-
-### 5. 🔁 Advanced Function Concepts
-
-* **Recursion**
-
-  * Recursive functions
-  * Base condition
-  * Recursive calls
-
-* **Variable-Length Arguments**
-
-  * `*args`
-  * `**kwargs`
-
-* **Lambda Functions**
-
-  * Anonymous functions
-  * Single-expression functions
-  * Using lambda with other functions
-
-* **Map Function**
-
-  * `map()`
-  * Applying a function to multiple elements
-
-* **Filter Function**
-
-  * `filter()`
-  * Filtering elements based on conditions
+  * Reading, Writing & Working with Files
 
 ---
 
 ## 📂 Repository Structure
 
-| #  | Notebook                                        | Focus                          |
-| -- | ----------------------------------------------- | ------------------------------ |
-| 01 | `01_python_introduction.ipynb`                  | Python Introduction & Syntax   |
-| 02 | `02_variables.ipynb`                            | Variables                      |
-| 03 | `03_datatypes.ipynb`                            | Data Types                     |
-| 04 | `04_keywords.ipynb`                             | Python Keywords                |
-| 05 | `05_operators.ipynb`                            | Operators                      |
-| 06 | `06_Data_structure.ipynb`                       | Data Structures                |
-| 07 | `07_List.ipynb`                                 | Lists                          |
-| 08 | `08_tuples.ipynb`                               | Tuples                         |
-| 09 | `09_sets.ipynb`                                 | Sets                           |
-| 10 | `10_Dictionary.ipynb`                           | Dictionaries                   |
-| 11 | `11_conditionalStatements.ipynb`                | Conditional Statements         |
-| 12 | `12_looping_Statements_for_loop.ipynb`          | For Loops                      |
-| 13 | `13_looping_statements.ipynb`                   | Looping Statements             |
-| 14 | `14_functions_intro.ipynb`                      | Functions Introduction         |
-| 15 | `15_Function_examples.ipynb`                    | Function Examples              |
-| 16 | `16_funcRecursicve_and_Variable_argument.ipynb` | Recursion & Variable Arguments |
-| 17 | `17_function_Questions.ipynb`                   | Function Practice Questions    |
-| 18 | `18_Lambda_functions.ipynb`                     | Lambda Functions               |
-| 19 | `19_Map_functions.ipynb`                        | Map Function                   |
-| 20 | `20_Filter_function.ipynb`                      | Filter Function                |
+| #  | Notebook                                        | Topic                  |
+| -- | ----------------------------------------------- | ---------------------- |
+| 01 | `01_python_introduction.ipynb`                  | Python Introduction    |
+| 02 | `02_variables.ipynb`                            | Variables              |
+| 03 | `03_datatypes.ipynb`                            | Data Types             |
+| 04 | `04_keywords.ipynb`                             | Keywords               |
+| 05 | `05_operators.ipynb`                            | Operators              |
+| 06 | `06_Data_structure.ipynb`                       | Data Structures        |
+| 07 | `07_List.ipynb`                                 | Lists                  |
+| 08 | `08_tuples.ipynb`                               | Tuples                 |
+| 09 | `09_sets.ipynb`                                 | Sets                   |
+| 10 | `10_Dictionary.ipynb`                           | Dictionaries           |
+| 11 | `11_conditionalStatements.ipynb`                | Conditional Statements |
+| 12 | `12_looping_Statements_for_loop.ipynb`          | For Loop               |
+| 13 | `13_looping_statements.ipynb`                   | Loops                  |
+| 14 | `14_functions_intro.ipynb`                      | Functions              |
+| 15 | `15_Function_examples.ipynb`                    | Function Examples      |
+| 16 | `16_funcRecursicve_and_Variable_argument.ipynb` | Recursion & Arguments  |
+| 17 | `17_function_Questions.ipynb`                   | Function Practice      |
+| 18 | `18_Lambda_functions.ipynb`                     | Lambda                 |
+| 19 | `19_Map_functions.ipynb`                        | Map                    |
+| 20 | `20_Filter_function.ipynb`                      | Filter                 |
+| 21 | `21_File_Handling.ipynb`                        | File Handling          |
 
 ---
 
@@ -214,91 +87,58 @@ Functions help organize code into reusable blocks.
 
 <div align="center">
 
-### Python Fundamentals
+**Python Fundamentals** — `100%` ✅
 
-`████████████████████` **100%**
+**Data Structures** — `100%` ✅
 
-### Data Structures
+**Control Flow** — `100%` ✅
 
-`████████████████████` **100%**
+**Functions** — `100%` ✅
 
-### Control Flow
+**Functional Programming Basics** — `100%` ✅
 
-`████████████████████` **100%**
-
-### Functions
-
-`████████████████████` **100%**
-
-### Functional Programming Basics
-
-`████████████████████` **100%**
+**File Handling** — `100%` ✅
 
 </div>
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Tool                    | Purpose                        |
-| ----------------------- | ------------------------------ |
-| 🐍 **Python 3.x**       | Programming Language           |
-| 📓 **Jupyter Notebook** | Learning & Practice            |
-| 💻 **VS Code**          | Code Editor                    |
-| 🔧 **Git**              | Version Control                |
-| 🌐 **GitHub**           | Repository & Progress Tracking |
-
----
-
-## 🧠 What I'm Practicing
+## 🧠 Learning Path
 
 ```text
-Python Syntax
-     ↓
-Variables & Data Types
-     ↓
-Operators
+Python Basics
      ↓
 Data Structures
      ↓
-Conditional Statements
-     ↓
-Loops
+Control Flow
      ↓
 Functions
      ↓
-Recursion & Variable Arguments
+Recursion & Arguments
      ↓
-Lambda Functions
+Lambda → Map → Filter
      ↓
-Map & Filter
+File Handling
      ↓
-🚀 Next: Core Python & OOP
+🚀 Next: OOP & Core Python
 ```
+
+---
+
+## 🛠️ Tools
+
+* 🐍 Python 3.x
+* 📓 Jupyter Notebook
+* 💻 VS Code
+* 🔧 Git & GitHub
 
 ---
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-**🐍 Strengthening Python Fundamentals**
-
-**💻 Solving More Programming Problems**
-
-**🧠 Improving Logical Thinking**
-
-**🏗️ Building Real-World Python Projects**
-
-</div>
-
----
-
-## 🌱 Learning Philosophy
+**Strengthening Python fundamentals → Solving problems → Building projects → Learning OOP**
 
 > **"Don't just learn the syntax. Understand how and why the code works."**
-
-Every notebook in this repository represents something I have **learned, practiced, and experimented with**.
 
 ---
 
